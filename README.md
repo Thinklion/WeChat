@@ -6,7 +6,7 @@
 效果图如下
 http://code.cocoachina.com/detail/326517/%E6%A8%A1%E4%BB%BF%E5%BE%AE%E4%BF%A1%E5%BC%80%E5%8F%91%E7%9A%84%E8%81%8A%E5%A4%A9%E8%BD%AF%E4%BB%B6%EF%BC%8C%E5%9F%BA%E4%BA%8EXMPP/
 
-如果喜欢就在上面给个star吧，thank you。
+如果喜欢就在上面给个star吧，thank you。 欢迎加入iOS大神群交流 519797474
 
 This is my personal development in the work of a xmpp+openfire instant messaging software, page layout modeled micro channel, based on the jabber protocol, its functions include user login, registration, access to friends list, timely chat, send and receive information, custom expression keyboard, not read the message little red dot, modify personal information, user avatar, delete friends, etc.. This project is based on the openfire server, so you need to build a openfire server on the computer, this information has a lot of online search can be.
 After the server is set up, the client needs to do some configuration information and server interaction, its configuration file in the Class->Other->Common->common.h file, in this file to modify the IP address of your server, server port number, server name, etc..
